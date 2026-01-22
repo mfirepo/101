@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <security>
-  <addon id="plugin.video.paradox">
-    <status>active</status>
-    <version_valid>1.4.2</version_valid>
-    <expiry>2024-12-31</expiry>
-  </addon>
+    <addons>
+        <addon id="plugin.video.paradox" status="enabled" />
+    </addons>
+    <timestamp>2023-11-15T12:00:00Z</timestamp>
 </security>
