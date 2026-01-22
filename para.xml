@@ -2,7 +2,7 @@
 <security>
   <addon id="plugin.video.paradox">
     <status>active</status>
-    <version_valid>1.4.1</version_valid>
+    <version_valid>1.4.2</version_valid>
     <expiry>2024-12-31</expiry>
   </addon>
 </security>
