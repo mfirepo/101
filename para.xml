@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <security>
-    <addons>
-        <addon id="plugin.video.paradox" status="disabled" />
-    </addons>
-    <timestamp>2023-11-15T12:00:00Z</timestamp>
+    <enabled>true</enabled>
+    <message>Addon disabled</message>
 </security>
